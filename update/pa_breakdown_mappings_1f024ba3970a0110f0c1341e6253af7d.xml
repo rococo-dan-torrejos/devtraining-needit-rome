@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="INSERT_OR_UPDATE">
+        <breakdown display_value="NeedIt Requests by Month Halves">b6e1c7a3970a0110f0c1341e6253af4a</breakdown>
+        <facts_table>x_58872_needit_needit</facts_table>
+        <field/>
+        <script display_value="NeedIt.day">7e91c3a3970a0110f0c1341e6253af61</script>
+        <scripted>true</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-11 16:55:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f024ba3970a0110f0c1341e6253af7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b6e1c7a3970a0110f0c1341e6253af4a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_1f024ba3970a0110f0c1341e6253af7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-11 16:55:48</sys_updated_on>
+    </pa_breakdown_mappings>
+</record_update>
